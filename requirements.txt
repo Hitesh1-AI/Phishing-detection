@@ -3,4 +3,7 @@ pandas
 scikit-learn
 fastapi
 uvicorn
+dill
+matplotlib
+seaborn
 # tensorflow
